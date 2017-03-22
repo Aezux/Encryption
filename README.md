@@ -1,2 +1,2 @@
 # Encryption
-A simple plaintext encryption program
+This simple program can be used for encrypting and decrypting messages.
